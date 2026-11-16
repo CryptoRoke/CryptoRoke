@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @CryptoRoke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola, soy Roque 👋
 
-<!---
-CryptoRoke/CryptoRoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📈 Trader de futuros (NQ / MNQ) enfocado en estructura de precio, VWAP y liquidez.
+
+- 🛠️ Herramientas: NinjaTrader 8 (NinjaScript / C#), Python, Excel
+- 🔬 Trabajando en: backtesting de estrategias intradía sobre datos tick
+- 🌱 Aprendiendo: Git, automatización y análisis de datos
+- 📓 Disciplina > predicción: cada trade registrado, cada regla respetada
